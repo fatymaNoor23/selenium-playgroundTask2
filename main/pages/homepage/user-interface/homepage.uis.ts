@@ -1,0 +1,1 @@
+export const inputFormButton=$(`//div/ul/li/a[contains(@href,"https://www.lambdatest.com/selenium-playground/input-form-demo")]`);
